@@ -1,4 +1,4 @@
-![logo](https://github.com/adityasysnet/adityasysnet/blob/main/banner)
+![logo](https://github.com/adityasysnet/adityasysnet/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Åditya Sharma</h1>
 <h3 align="center">A passionate Python(Data Engineer) from India</h3>
 
